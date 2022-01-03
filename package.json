@@ -1,6 +1,6 @@
 {
   "name": "binary-search-jsv2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "binary search in list",
   "main": "src/index.js",
   "scripts": {
