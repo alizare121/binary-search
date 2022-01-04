@@ -4,7 +4,7 @@ Binary Search in JavaScript
 
 `npm i binary-search-jsv2`
 
-[npm link]('https://www.npmjs.com/package/binary-search-jsv2')
+[npm link](https://www.npmjs.com/package/binary-search-jsv2)
 
 for example :
 
